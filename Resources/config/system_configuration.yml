@@ -1,4 +1,4 @@
-system_configuration:
+oro_system_configuration:
     groups:
         tracking:
             title:  oro.tracking.system_configuration.groups.tracking.title
